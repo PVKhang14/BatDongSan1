@@ -1,3 +1,11 @@
+Thành Viên Nhóm 19:
+-Phạm Vĩnh Khang-22010197
+-Trịnh Thị Ngọc Anh-22010380
+-Lương Trung Hiếu-22010422
+-Nguyễn Hoàng Đức-22010054
+
+
+
 # Soroban Project
 
 ## Project Structure
